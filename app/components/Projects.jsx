@@ -43,7 +43,7 @@ const Projects = () => {
                         title="Chat App"
                         backgroundImg={chatAppImg}
                         tech="React | Firebase"
-                        projectUrl="https://chat-room-lemon.vercel.app/chat"
+                        projectUrl="https://chat-room-lemon.vercel.app/"
                         githubUrl="https://github.com/dot-jayson/chat-room"
                     />
 
