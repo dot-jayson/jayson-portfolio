@@ -26,7 +26,7 @@ const Main = () => {
                         Hi, I'm <span className="text-[#5651e5]">Jayson.</span>
                     </h1>
                     <h1 className="py-2 text-gray-300">
-                        A front-End Web Developer
+                        A Front-End Web Developer
                     </h1>
                     <p className="py-4 text-gray-400 max-w-[70%] m-auto">
                         Computer Science graduate and passionate self-taught front-end developer with a strong focus on staying up to date with the latest technologies.
